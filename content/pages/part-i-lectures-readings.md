@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Part I: Particle and Continuum Methods'
 uid: 33eabb9b-72b3-aa0c-3f63-c881b7ad488e
 ---

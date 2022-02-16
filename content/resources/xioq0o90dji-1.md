@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-021j-introduction-to-modeling-and-simulation-spring-2012/24686916ebb038f076288a4bed1bcd76_xIOQ0O90DjI.pdf
+file: /media/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/24686916ebb038f076288a4bed1bcd76_xIOQ0O90DjI.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 24686916-ebb0-38f0-7628-8a4bed1bcd76

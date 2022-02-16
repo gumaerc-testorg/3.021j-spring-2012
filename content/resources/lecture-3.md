@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Notes
+optional_text: '[Lecture 3: Many-Body to Single-Particle (PDF - 3.8MB)](resources/mit3_021js12_l3)'
+parent_title: 'Part II: Quantum Mechanical Methods'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: From Many-Body to Single-Particle: Quantum Modeling of Molecules'
 uid: c9e0266c-52b8-25e1-07db-5766b5794ddd
 video_files:
   archive_url: http://www.archive.org/download/MIT3.021JS12/MIT3_021JS12_lec03_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/3-021j-introduction-to-modeling-and-simulation-spring-2012/ee8e1faab4fb50b786f0c84612fc9b5f_HkoxlFUerR0.vtt
+  video_captions_file: /courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/ee8e1faab4fb50b786f0c84612fc9b5f_HkoxlFUerR0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/HkoxlFUerR0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/3-021j-introduction-to-modeling-and-simulation-spring-2012/d8165cbfc07bdd171c62ff8bbeac6417_HkoxlFUerR0.pdf
+  video_transcript_file: /courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/d8165cbfc07bdd171c62ff8bbeac6417_HkoxlFUerR0.pdf
 video_metadata:
   youtube_id: HkoxlFUerR0
 ---

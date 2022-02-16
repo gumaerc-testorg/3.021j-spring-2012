@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-021j-introduction-to-modeling-and-simulation-spring-2012/8ade9d9c86385b89b4b422d7946aa2f5_HGB8VlcFVzU.vtt
+file: /media/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/8ade9d9c86385b89b4b422d7946aa2f5_HGB8VlcFVzU.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 8ade9d9c-8638-5b89-b4b4-22d7946aa2f5

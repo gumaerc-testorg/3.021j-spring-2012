@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Notes
+optional_text: '[Lecture 10: Solar Photovoltaics (PDF - 3.4MB)](resources/mit3_021js11_l10)'
+parent_title: 'Part II: Quantum Mechanical Methods'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10: Solar Photovoltaics'
 uid: 448d2805-54f1-731b-5c70-d56b2485aad5
 video_files:
   archive_url: http://www.archive.org/download/MIT3.021JS12/MIT3_021JS12_lec10_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/3-021j-introduction-to-modeling-and-simulation-spring-2012/7143129dfb6c57b3a8187424833b7244_8GIRyIkHJZI.vtt
+  video_captions_file: /courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/7143129dfb6c57b3a8187424833b7244_8GIRyIkHJZI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/8GIRyIkHJZI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/3-021j-introduction-to-modeling-and-simulation-spring-2012/8bc04c8fb541f0436e74bfa93ff161cd_8GIRyIkHJZI.pdf
+  video_transcript_file: /courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/8bc04c8fb541f0436e74bfa93ff161cd_8GIRyIkHJZI.pdf
 video_metadata:
   youtube_id: 8GIRyIkHJZI
 ---
