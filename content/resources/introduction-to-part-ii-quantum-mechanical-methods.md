@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Lecture Notes
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 0: Introduction to Part II: Quantum Mechanical Methods'
 uid: d5cf5a1e-d6b9-d1aa-f34f-6fcd11df9efa
 video_files:

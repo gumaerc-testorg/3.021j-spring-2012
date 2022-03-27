@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Lecture Notes
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Application of Quantum Modeling of Molecules: Solar Thermal Fuels
   (cont.)'
 uid: 212bdba5-ce7b-4efb-75f0-aa6862e72b7e

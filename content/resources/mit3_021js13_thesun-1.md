@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9f56b50d-67ff-c7d0-e03c-de3fedeb3c72
 resourcetype: Other
 title: MIT3_021JS13_thesun.xlsx
 uid: 09e5f995-b6e9-0635-f8f4-c68cc3339761
