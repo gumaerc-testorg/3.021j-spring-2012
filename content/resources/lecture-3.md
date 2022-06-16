@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lecture 3: Many-Body to Single-Particle (PDF - 3.8MB)](resources/mit3_021js12_l3)'
+optional_text: '[Lecture 3: Many-Body to Single-Particle (PDF - 3.8MB)](/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/resources/mit3_021js12_l3)'
 parent_title: 'Part II: Quantum Mechanical Methods'
 parent_type: CourseSection
 related_resources_text: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture briefly reviews the previous lesson, discusses the many-body problem, Hartree and Hartree-Fock, density functional theory, and covers computational approaches, modeling software, and PWscf (plane-wave self-consisten field) input.
 
 **Instructor:** Jeffrey Grossman
+
+
+

@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lecture 5: Solar Thermal Fuels II (PDF - 4.0MB)](resources/mit3_021js12_l5)'
+optional_text: '[Lecture 5: Solar Thermal Fuels II (PDF - 4.0MB)](/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/resources/mit3_021js12_l5)'
 parent_title: 'Part II: Quantum Mechanical Methods'
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture reviews energy levels and continues from the previous session on solar thermal fuels. There are interactive calculations and live simulations, and discussion about candidate fuels.
 
 **Instructor:** Jeffrey Grossman
+
+
+

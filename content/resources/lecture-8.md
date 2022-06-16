@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lecture 8: Advanced Properties of Materials (PDF - 1.3MB)](resources/mit3_021js11_l8)'
+optional_text: '[Lecture 8: Advanced Properties of Materials (PDF - 1.3MB)](/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/resources/mit3_021js11_l8)'
 parent_title: 'Part II: Quantum Mechanical Methods'
 parent_type: CourseSection
 related_resources_text: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture begins with a brief review of lattices, band structure, and Fermi function, and continues with discussion of electrical, optical, magnetic, transport, and vibrational properties of solids.
 
 **Instructor:** Jeffrey Grossman
+
+
+

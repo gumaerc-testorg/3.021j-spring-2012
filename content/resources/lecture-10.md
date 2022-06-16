@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lecture 10: Solar Photovoltaics (PDF - 3.4MB)](resources/mit3_021js11_l10)'
+optional_text: '[Lecture 10: Solar Photovoltaics (PDF - 3.4MB)](/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/resources/mit3_021js11_l10)'
 parent_title: 'Part II: Quantum Mechanical Methods'
 parent_type: CourseSection
 related_resources_text: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Beginning with a review of problem set six, this lecture overviews climate change, covers solar photovoltaics, solar cells, the electron, how computational QM can impact solar PV, and introduces dye-sensitized solar PV.
 
 **Instructor:** Jeffrey Grossman
+
+
+

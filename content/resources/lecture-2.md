@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lecture 2: Practice Makes Perfect (PDF - 4.9MB)](resources/mit3_021js12_l2)'
+optional_text: '[Lecture 2: Practice Makes Perfect (PDF - 4.9MB)](/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/resources/mit3_021js12_l2)'
 parent_title: 'Part II: Quantum Mechanical Methods'
 parent_type: CourseSection
 related_resources_text: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture reviews quantization, wave aspect, double-slit experiment, Schrödinger, and discusses the hydrogen atom as a real-world example, spin and spin history, Pauli's principle, the periodic table, and concludes with simulations on NanoHub.org.
 
 **Instructor:** Jeffrey Grossman
+
+
+

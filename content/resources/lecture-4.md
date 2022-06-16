@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture 4: Solar Thermal Fuels I (PDF - 28MB)](/ans7870/3/3.021/s12/MIT3_021JS12_P2_L4.pdf)'
 parent_title: 'Part II: Quantum Mechanical Methods'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture reviews previous lessons, and covers quantum chemistry vs. density functional theory, with some interactive calculation and discussion about candidate fuels.
 
 **Instructor:** Jeffrey Grossman
+
+
+

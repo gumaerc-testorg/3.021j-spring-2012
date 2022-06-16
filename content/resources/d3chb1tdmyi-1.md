@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/199a2763611a12fb56bcc27212e305ae_d3ChB1tDMyI.pdf
+file: /courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/199a2763611a12fb56bcc27212e305ae_d3ChB1tDMyI.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lecture 9: Intro to Solar Photovoltaics (PDF - 2.2MB)](resources/mit3_021js11_l9)'
+optional_text: '[Lecture 9: Intro to Solar Photovoltaics (PDF - 2.2MB)](/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/resources/mit3_021js11_l9)'
 parent_title: 'Part II: Quantum Mechanical Methods'
 parent_type: CourseSection
 related_resources_text: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lesson reviews problem set five and other examples, goes over previously covered topics for the upcoming quiz, and continues with discussion of energy, renewable energy, fossil fuel, data and motivations for alternative fuels.
 
 **Instructor:** Jeffrey Grossman
+
+
+

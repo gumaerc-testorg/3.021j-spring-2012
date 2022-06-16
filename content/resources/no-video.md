@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/3b456812548b7fd67e2366dd821af219_No-Video.jpg
+file: /courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/3b456812548b7fd67e2366dd821af219_No-Video.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

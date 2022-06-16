@@ -1,5 +1,9 @@
 ---
 content_type: video_gallery
+description: This section provides lecture videos and lecture notes for the second
+  half of the course as taught by Professor Jeffrey Grossman. Please note that Lecture
+  3 is presented by guest lecturer, Michelle Tomasik, and Lecture 11 does not have
+  an associated video.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

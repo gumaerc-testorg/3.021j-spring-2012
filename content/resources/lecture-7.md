@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lecture 7: Quantum Modeling of Solids (PDF - 2.8MB)](resources/mit3_021js12_l7)'
+optional_text: '[Lecture 7: Quantum Modeling of Solids (PDF - 2.8MB)](/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/resources/mit3_021js12_l7)'
 parent_title: 'Part II: Quantum Mechanical Methods'
 parent_type: CourseSection
 related_resources_text: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture begins with inspiration for student projects, a review of the previous lesson, and continues with structural properties, band structure (including in-class simulations), calculating density of states (DOS), and metals/insulators.
 
 **Instructor:** Jeffrey Grossman
+
+
+

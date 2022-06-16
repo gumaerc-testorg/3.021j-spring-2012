@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides lectures notes and readings from the first half
+  of the course covering particle and continuum methods, and are the previous year
+  version as taught by Professor Markus Buehler.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Part I: Particle and Continuum Methods'
@@ -38,7 +41,7 @@ ADDITIONAL RESOURCES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF - 2.4MB)]({{< baseurl >}}/resources/mit3_021js12_p1_l1)
+{{% resource_link 339679e5-c88d-1475-3ed3-9d6b3311993f "Lecture notes (PDF - 2.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +55,7 @@ Basic molecular dynamics
 {{< tdopen >}}
 
 
-[Lecture notes (PDF - 4.3MB)]({{< baseurl >}}/resources/mit3_021js12_p1_l2)
+{{% resource_link da038e84-d39d-eadf-3c43-07f04a657e6c "Lecture notes (PDF - 4.3MB)" %}}
 
 Komanduri, R., N. Chandrasekaran, et al. "[Molecular Dynamics (MD) Simulation of Uniaxial Tension of Some Single-Crystal Cubic Metals at Nanolevel](http://dx.doi.org/10.1016/S0020-7403(01)00043-1)." _International Journal of Mechanical Sciences_ 43, no. 10 (2001): 2237–60.
 
@@ -70,7 +73,7 @@ Property calculation I
 {{< tdopen >}}
 
 
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit3_021js12_p1_l3)
+{{% resource_link 17819167-9be6-4299-e66a-fef78b1051a7 "Lecture notes (PDF)" %}}
 
 Alder, J., and T. Wainwright. "[Phase Transition for a Hard Sphere System](http://dx.doi.org/10.1063/1.1743957)." _Journal of Chemical Physics_ 27 (1957): 1208–09.
 
@@ -92,7 +95,7 @@ Property calculation II
 {{< tdopen >}}
 
 
-[Lecture notes (PDF - 1.8MB)]({{< baseurl >}}/resources/mit3_021js12_p1_l4)
+{{% resource_link 9ab5847f-a519-70ba-c30d-b9a22e5e14c9 "Lecture notes (PDF - 1.8MB)" %}}
 
 Cleri, F., et al. "[Atomic-Scale Mechanism of Crack-Tip Plasticity: Dislocation Nucleation and Crack-Tip Shielding](http://dx.doi.org/10.1103/PhysRevLett.79.1309)." _Physical Review Letters_ 79, no. 7 (1997): 1309–12.
 
@@ -110,7 +113,7 @@ How to model chemical interactions I
 {{< tdopen >}}
 
 
-[Lecture notes (PDF - 1.9MB)]({{< baseurl >}}/resources/mit3_021js12_p1_l5)
+{{% resource_link 0fb98f22-dc93-73a5-7b82-c3537f3797d3 "Lecture notes (PDF - 1.9MB)" %}}
 
 Daw, M., and M. Baskes. "[Embedded-Atom Method: Derivation and Application to Impurities, Surfaces, and Other Defects in Metals](http://dx.doi.org/10.1103/PhysRevB.29.6443)." _Physical Review B_ 29, no. 12 (1984): 6443–53.
 
@@ -130,7 +133,7 @@ Buehler, M., et al. "[The Dynamical Complexity of Work-Hardening: A Large-Scale 
 How to model chemical interactions II
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF - 3.1MB)]({{< baseurl >}}/resources/mit3_021js12_p1_l6)
+{{% resource_link dbf97fbb-2105-7310-2106-ed79bbd7d25b "Lecture notes (PDF - 3.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +145,7 @@ How to model chemical interactions II
 Application to modeling brittle materials
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF - 1.4MB)]({{< baseurl >}}/resources/mit3_021js12_p1_l7)
+{{% resource_link d5e8b542-3d1c-5aa2-7f9f-2e1f43524c37 "Lecture notes (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +157,7 @@ Application to modeling brittle materials
 Reactive potentials and applications I
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit3_021js12_p1_l8)
+{{% resource_link 19c48e45-80d7-a7d5-2b0c-fd6bdb719e02 "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +169,7 @@ Reactive potentials and applications I
 Reactive potentials and applications II
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF - 1.3MB)]({{< baseurl >}}/resources/mit3_021js12_p1_l9)
+{{% resource_link 7f3b05c7-a442-9b97-57d2-ee8c69c21976 "Lecture notes (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +181,7 @@ Reactive potentials and applications II
 Applications to biophysics and bionanomechanics I
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF - 2.7MB)]({{< baseurl >}}/resources/mit3_021js12_p1_l10)
+{{% resource_link c701034c-19aa-cb55-e310-3116c764a015 "Lecture notes (PDF - 2.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +195,7 @@ Applications to biophysics and bionanomechanics II
 {{< tdopen >}}
 
 
-[Lecture notes (PDF - 2.1MB)]({{< baseurl >}}/resources/mit3_021js12_p1_l11)
+{{% resource_link 81c66bd6-b1fe-ecfd-30d7-fdfbe1b94943 "Lecture notes (PDF - 2.1MB)" %}}
 
 Buehler, M. ["Hierarchical Chemo-Nanomechanics of Proteins: Entropic Elasticity, Protein Unfolding and Molecular Fracture](http://dx.doi.org/10.2140/jomms.2007.2.1019)." _Journal of Mechanics of Materials and Structures_ 2, no. 6 (2007): 1019–57.
 
@@ -212,7 +215,7 @@ Ackbarow, T., et al. "[Alpha-Helical Protein Networks are Self-Protective and Fl
 Review session - Preparation Quiz 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF - 4.4MB)]({{< baseurl >}}/resources/mit3_021js12_p1_l12)
+{{% resource_link 546fd8fe-4650-df55-6372-48a716cfdd7c "Lecture notes (PDF - 4.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
