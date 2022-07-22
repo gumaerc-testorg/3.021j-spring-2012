@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This page contains suggested readings for the assignments in Part I,
+  and the problem sets for Part II of this course. The assignments for Part I are
+  not available. Note that Part I materials are as taught the previous year.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 9f56b50d-67ff-c7d0-e03c-de3fedeb3c72
 ---
@@ -94,7 +100,7 @@ ADDITIONAL MATERIALS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Assignment 4 (PDF)]({{< baseurl >}}/resources/mit3_021js12_hw4)
+{{% resource_link f7c8f099-c9ac-aa3b-6034-4321374fdb70 "Assignment 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -103,16 +109,16 @@ ADDITIONAL MATERIALS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Assignment 5 (PDF)]({{< baseurl >}}/resources/mit3_021js12_hw5)
+{{% resource_link cd916f1f-c121-17b1-980e-0262248e6421 "Assignment 5 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Fuel 1: [fuel1-cis.xyz (XYZ)]({{< baseurl >}}/resources/fuel1-cis), [fuel1-trans.xyz (XYZ)]({{< baseurl >}}/resources/fuel1-trans)
+Fuel 1: {{% resource_link a73ea949-1c5b-7635-e1d4-b3a1d38a2c1e "fuel1-cis.xyz (XYZ)" %}}, {{% resource_link 09bc21c2-cad0-1b6a-3ee7-3ad33502e4f1 "fuel1-trans.xyz (XYZ)" %}}
 
-Fuel 2: [fuel2-cis.xyz (XYZ)]({{< baseurl >}}/resources/fuel2-cis), [fuel2-trans.xyz (XYZ)]({{< baseurl >}}/resources/fuel2-trans)
+Fuel 2: {{% resource_link a05e02a1-2b6c-2a6a-b4c0-689523052022 "fuel2-cis.xyz (XYZ)" %}}, {{% resource_link eed43c5a-8187-eaaf-8052-556a18ed4710 "fuel2-trans.xyz (XYZ)" %}}
 
-Solar spectrum data: [thesun.xlsx (XLS)]({{< baseurl >}}/resources/mit3_021js13_thesun-1), [(PDF)]({{< baseurl >}}/resources/mit3_021js13_thesun)
+Solar spectrum data: {{% resource_link 09e5f995-b6e9-0635-f8f4-c68cc3339761 "thesun.xlsx (XLS)" %}}, {{% resource_link 34e2d30a-5503-082c-da87-a722951090ac "(PDF)" %}}
 
 
 {{< tdclose >}}
@@ -120,7 +126,7 @@ Solar spectrum data: [thesun.xlsx (XLS)]({{< baseurl >}}/resources/mit3_021js13_
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Assignment 6 (PDF)]({{< baseurl >}}/resources/mit3_021js12_hw6)
+{{% resource_link d90c0aeb-f7c9-6446-40a3-3d4766cff7f7 "Assignment 6 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  

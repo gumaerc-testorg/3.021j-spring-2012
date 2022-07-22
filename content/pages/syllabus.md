@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on prerequisites, instructors, recitations, homework, exams, grading, and the schedule
+  of lecture topics, quizzes, and key dates for assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 151c9c77-baed-2e96-115a-7b54331c31c0
 ---
@@ -14,7 +19,7 @@ Recitations: 1 session / week, 1 hour / session
 Prerequisites
 -------------
 
-[18.03 _Differential Equations_](/courses/18-03-differential-equations-spring-2010/) or [3.016 _Mathematical Methods for Materials Scientists and Engineers_](/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/).
+[18.03 _Differential Equations_](/courses/18-03-differential-equations-spring-2010) or [3.016 _Mathematical Methods for Materials Scientists and Engineers_](/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005).
 
 Course Description
 ------------------
