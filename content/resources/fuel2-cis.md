@@ -5,6 +5,7 @@ file: /courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/a05e02
 file_type: chemical/x-xyz
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fuel2-cis.xyz
 uid: a05e02a1-2b6c-2a6a-b4c0-689523052022
 ---
 This is a sample file contains information regarding fuel2-cis.xyz.
-

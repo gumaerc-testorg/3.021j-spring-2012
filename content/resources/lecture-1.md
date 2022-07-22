@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture 1: It''s a Quantum World (PDF - 4.2MB)](/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/resources/mit3_021js12_l1)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture discusses the theory of quantum mechanics (QM), modeling and simluation, why QM is useful, and how it grew out of classical physics, and concludes with some simple examples.
 
 **Instructor:** Jeffrey Grossman
-
-
 

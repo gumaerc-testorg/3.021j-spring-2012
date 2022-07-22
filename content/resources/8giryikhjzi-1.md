@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/8bc04c8fb541f0436e74bfa93ff161cd_8GIRyIkHJZI.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

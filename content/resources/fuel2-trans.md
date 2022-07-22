@@ -5,6 +5,7 @@ file: /courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/eed43c
 file_type: chemical/x-xyz
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fuel2-trans.xyz
 uid: eed43c5a-8187-eaaf-8052-556a18ed4710
 ---
 This is a sample file contains information regarding fuel2-trans.xyz.
-

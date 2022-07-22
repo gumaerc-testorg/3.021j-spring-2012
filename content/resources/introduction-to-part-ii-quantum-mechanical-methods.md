@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture 0: Introduction to Part II (PDF - 2.7MB)](/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/resources/mit3_021js12_l0)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Introduction to Part II which will cover atomistic quantum modeling of materials. Overviews modeling methods, history of quantum mechanics, introduces the Schrödinger equation, density function theory, and applications including energy storage materials.
 
 **Instructor:** Jeffrey Grossman
-
-
 

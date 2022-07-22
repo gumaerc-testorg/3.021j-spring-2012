@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture 10: Solar Photovoltaics (PDF - 3.4MB)](/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/resources/mit3_021js11_l10)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Beginning with a review of problem set six, this lecture overviews climate change, covers solar photovoltaics, solar cells, the electron, how computational QM can impact solar PV, and introduces dye-sensitized solar PV.
 
 **Instructor:** Jeffrey Grossman
-
-
 
