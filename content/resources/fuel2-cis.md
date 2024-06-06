@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a sample file contains information regarding fuel2-cis.xyz.
 file: /courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/a05e02a12b6c2a6ab4c0689523052022_fuel2-cis.xyz
+file_size: 1768
 file_type: chemical/x-xyz
 learning_resource_types:
 - Assignments
