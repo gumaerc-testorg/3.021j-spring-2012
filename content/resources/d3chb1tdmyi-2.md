@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/c3e4178f6f0c5e739a98545b58ba09ca_d3ChB1tDMyI.vtt
+file: /ol-ocw-studio-app/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/c3e4178f6f0c5e739a98545b58ba09ca_d3ChB1tDMyI.vtt
 file_size: 52786
 file_type: application/x-subrip
 learning_resource_types: []
