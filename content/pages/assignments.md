@@ -38,9 +38,9 @@ Assignment 1 readings
 {{< tdopen >}}
 
 
-Vlachos, D., L. Schmidt, et al. "[Structures of Small Metal Clusters. I. Low Temperature Behavior](http://dx.doi.org/10.1063/1.462582)." _Journal of Chemical Physics_ 96, no. 9 (1992): 6880–90.
+Vlachos, D., L. Schmidt, et al. "{{% resource_link "96705cc1-6bab-499d-a386-00df6ee70698" "Structures of Small Metal Clusters. I. Low Temperature Behavior" %}}." _Journal of Chemical Physics_ 96, no. 9 (1992): 6880–90.
 
-Sanchez, J., et al. "[Modeling of γ/γ′ Phase Equilibrium in the Nickel-Aluminum System](http://dx.doi.org/10.1016/0001-6160(84)90098-1)." _Acta Metallurgica_ 32, no. 9 (1984): 1519–25.
+Sanchez, J., et al. "{{% resource_link "940b3cd9-288f-4632-9a0a-5dc9f045b2d6" "Modeling of γ/γ′ Phase Equilibrium in the Nickel-Aluminum System" %}}." _Acta Metallurgica_ 32, no. 9 (1984): 1519–25.
 
 
 {{< tdclose >}}
@@ -53,13 +53,13 @@ Assignment 2 readings
 {{< tdopen >}}
 
 
-Sen, D., and M. Buehler. "[Chemical Complexity in Mechanical Deformation of Metals](http://dx.doi.org/10.1615/IntJMultCompEng.v5.i3-4.30)." _International Journal for Multiscale Computational Engineering_ 5, no. 3 and 4 (2007): 181–202.
+Sen, D., and M. Buehler. "{{% resource_link "2b836ac6-49ea-4381-8ee6-7e8148a454a5" "Chemical Complexity in Mechanical Deformation of Metals" %}}." _International Journal for Multiscale Computational Engineering_ 5, no. 3 and 4 (2007): 181–202.
 
-Buehler, M., et al. "[Multi-Paradigm Modeling of Fracture of a Silicon Single Crystal Under Mode II Shear Loading](http://dx.doi.org/10.1260/174830108784646634)." J_ournal of Algorithms & Computational Technology_ 2, no. 2 (2008): 203–21.
+Buehler, M., et al. "{{% resource_link "21013d65-ce68-4c49-b977-874b4774f4ac" "Multi-Paradigm Modeling of Fracture of a Silicon Single Crystal Under Mode II Shear Loading" %}}." J_ournal of Algorithms & Computational Technology_ 2, no. 2 (2008): 203–21.
 
-Buehler, M., et al. "[Multiparadigm Modeling of Dynamical Crack Propagation in Silicon Using a Reactive Force Field](http://dx.doi.org/10.1103/PhysRevLett.96.095505)." _Physical Review Letter_s 96, no. 9 (2006).
+Buehler, M., et al. "{{% resource_link "c0c607a4-bb46-4799-a63c-e9155bb0e194" "Multiparadigm Modeling of Dynamical Crack Propagation in Silicon Using a Reactive Force Field" %}}." _Physical Review Letter_s 96, no. 9 (2006).
 
-Buehler, M., et al. "[Threshold Crack Speed Controls Dynamical Fracture of Silicon Single Crystals](http://dx.doi.org/10.1103/PhysRevLett.99.165502)." _Physical Review Letters_ 99, no. 16 (2007).
+Buehler, M., et al. "{{% resource_link "6e5e72ae-8422-44b6-94e9-12c91d6aba2f" "Threshold Crack Speed Controls Dynamical Fracture of Silicon Single Crystals" %}}." _Physical Review Letters_ 99, no. 16 (2007).
 
 
 {{< tdclose >}}
@@ -72,9 +72,9 @@ Assignment 3 readings
 {{< tdopen >}}
 
 
-Gautieri, A., et al. "[Hierarchical Structure and Nanomechanics of Collagen Microfibrils from the Atomistic Scale Up](http://dx.doi.org/10.1021/nl103943u)." _Nano Letters_ 11, no. 2 (2011): 757–66.
+Gautieri, A., et al. "{{% resource_link "4af12705-5281-4e2e-a296-c0746fee52f6" "Hierarchical Structure and Nanomechanics of Collagen Microfibrils from the Atomistic Scale Up" %}}." _Nano Letters_ 11, no. 2 (2011): 757–66.
 
-Qin, Z., et al. "[Hierarchical Structure Controls Nanomechanical Properties of Vimentin Intermediate Filaments](http://dx.doi.org/10.1371/journal.pone.0007294)." _PLOS ONE_ 4, no. 10 (2009).
+Qin, Z., et al. "{{% resource_link "99406c68-1526-4d18-9fdc-76c54227694b" "Hierarchical Structure Controls Nanomechanical Properties of Vimentin Intermediate Filaments" %}}." _PLOS ONE_ 4, no. 10 (2009).
 
 
 {{< tdclose >}}
