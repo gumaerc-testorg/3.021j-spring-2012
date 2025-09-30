@@ -33,7 +33,7 @@ Basic molecular dynamics
 
 {{% resource_link "da038e84-d39d-eadf-3c43-07f04a657e6c" "Lecture notes (PDF - 4.3MB)" %}}
 
-Komanduri, R., N. Chandrasekaran, et al. "[Molecular Dynamics (MD) Simulation of Uniaxial Tension of Some Single-Crystal Cubic Metals at Nanolevel](http://dx.doi.org/10.1016/S0020-7403%2801%2900043-1)." *International Journal of Mechanical Sciences* 43, no. 10 (2001): 2237–60.
+Komanduri, R., N. Chandrasekaran, et al. "{{% resource_link "9c2323ab-5a10-4c4c-a75c-6dfcb160d1d6" "Molecular Dynamics (MD) Simulation of Uniaxial Tension of Some Single-Crystal Cubic Metals at Nanolevel" %}}." *International Journal of Mechanical Sciences* 43, no. 10 (2001): 2237–60.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -43,9 +43,9 @@ Property calculation I
 
 {{% resource_link "17819167-9be6-4299-e66a-fef78b1051a7" "Lecture notes (PDF)" %}}
 
-Alder, J., and T. Wainwright. "[Phase Transition for a Hard Sphere System](http://dx.doi.org/10.1063/1.1743957)." *Journal of Chemical Physics* 27 (1957): 1208–09.
+Alder, J., and T. Wainwright. "{{% resource_link "88ddaf64-7b57-48ab-a49d-f4c62a4cda70" "Phase Transition for a Hard Sphere System" %}}." *Journal of Chemical Physics* 27 (1957): 1208–09.
 
-Rahman, A. "[Correlations in the Motion of Atoms in Liquid Argon](http://dx.doi.org/10.1103/PhysRev.136.A405)." *Physical Review* 136, no. 2A (1964): A405–11.
+Rahman, A. "{{% resource_link "a9b78d58-a2cc-4002-87d9-055a9106d10a" "Correlations in the Motion of Atoms in Liquid Argon" %}}." *Physical Review* 136, no. 2A (1964): A405–11.
 
 Gibson, J. B., et al. "Dynamics of Radiation Damage." *Physical Review* 120, no. 4 (1960): 1229–53.
 
@@ -57,7 +57,7 @@ Property calculation II
 
 {{% resource_link "9ab5847f-a519-70ba-c30d-b9a22e5e14c9" "Lecture notes (PDF - 1.8MB)" %}}
 
-Cleri, F., et al. "[Atomic-Scale Mechanism of Crack-Tip Plasticity: Dislocation Nucleation and Crack-Tip Shielding](http://dx.doi.org/10.1103/PhysRevLett.79.1309)." *Physical Review Letters* 79, no. 7 (1997): 1309–12.
+Cleri, F., et al. "{{% resource_link "5001f8b7-8984-4cca-a140-f6863c5017df" "Atomic-Scale Mechanism of Crack-Tip Plasticity: Dislocation Nucleation and Crack-Tip Shielding" %}}." *Physical Review Letters* 79, no. 7 (1997): 1309–12.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -67,11 +67,11 @@ How to model chemical interactions I
 
 {{% resource_link "0fb98f22-dc93-73a5-7b82-c3537f3797d3" "Lecture notes (PDF - 1.9MB)" %}}
 
-Daw, M., and M. Baskes. "[Embedded-Atom Method: Derivation and Application to Impurities, Surfaces, and Other Defects in Metals](http://dx.doi.org/10.1103/PhysRevB.29.6443)." *Physical Review B* 29, no. 12 (1984): 6443–53.
+Daw, M., and M. Baskes. "{{% resource_link "cfff9cb5-943d-4779-82fb-b65ab78f58b7" "Embedded-Atom Method: Derivation and Application to Impurities, Surfaces, and Other Defects in Metals" %}}." *Physical Review B* 29, no. 12 (1984): 6443–53.
 
-Van Duin, A., et al. "[ReaxFF: A Reactive Force Field for Hydrocarbons](http://dx.doi.org/10.1021/jp004368u)." *Journal of Chemical Physics A* 105, no. 41 (2001): 9396–409.
+Van Duin, A., et al. "{{% resource_link "e7b9c58e-a929-4843-8242-33403a2831d7" "ReaxFF: A Reactive Force Field for Hydrocarbons" %}}." *Journal of Chemical Physics A* 105, no. 41 (2001): 9396–409.
 
-Buehler, M., et al. "[The Dynamical Complexity of Work-Hardening: A Large-Scale Molecular Dynamics Simulation](http://dx.doi.org/10.1007/s10409-005-0019-9)." *Acta Mechanica Sinica* 21, no. 2 (2005): 103–11.
+Buehler, M., et al. "{{% resource_link "9aed550a-3046-4080-8183-556983a18aef" "The Dynamical Complexity of Work-Hardening: A Large-Scale Molecular Dynamics Simulation" %}}." *Acta Mechanica Sinica* 21, no. 2 (2005): 103–11.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -111,11 +111,11 @@ Applications to biophysics and bionanomechanics II
 
 {{% resource_link "81c66bd6-b1fe-ecfd-30d7-fdfbe1b94943" "Lecture notes (PDF - 2.1MB)" %}}
 
-Buehler, M. ["Hierarchical Chemo-Nanomechanics of Proteins: Entropic Elasticity, Protein Unfolding and Molecular Fracture](http://dx.doi.org/10.2140/jomms.2007.2.1019)." *Journal of Mechanics of Materials and Structures* 2, no. 6 (2007): 1019–57.
+Buehler, M. {{% resource_link "ecd57959-68f6-4fd5-a340-d44dfe6c831f" "\"Hierarchical Chemo-Nanomechanics of Proteins: Entropic Elasticity, Protein Unfolding and Molecular Fracture" %}}." *Journal of Mechanics of Materials and Structures* 2, no. 6 (2007): 1019–57.
 
-Ackbarow, T., et al. "[Hierarchies, Multiple Energy Barriers, and Robustness Govern the Fracture Mechanics of α-helical and β-sheet Protein Domains](http://dx.doi.org/10.1073/pnas.0705759104)." *Proceedings of the National Academy of Sciences* 104, no. 42 (2007): 16410–15.
+Ackbarow, T., et al. "{{% resource_link "1bd751ef-eccc-4fe4-9b4d-1b5a31833c0f" "Hierarchies, Multiple Energy Barriers, and Robustness Govern the Fracture Mechanics of α-helical and β-sheet Protein Domains" %}}." *Proceedings of the National Academy of Sciences* 104, no. 42 (2007): 16410–15.
 
-Ackbarow, T., et al. "[Alpha-Helical Protein Networks are Self-Protective and Flaw-Tolerant](http://dx.doi.org/10.1371/journal.pone.0006015)." *PLoS ONE* 4, no. 6 (2009).
+Ackbarow, T., et al. "{{% resource_link "ec8b48cb-7770-459e-b548-d1df08199872" "Alpha-Helical Protein Networks are Self-Protective and Flaw-Tolerant" %}}." *PLoS ONE* 4, no. 6 (2009).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
